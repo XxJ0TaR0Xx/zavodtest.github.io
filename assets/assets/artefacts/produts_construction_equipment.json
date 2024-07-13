@@ -1,0 +1,76 @@
+{
+    "listProdutsConstructionEquipment": [
+        {
+            "name" : "Станки гибки арматуры",
+            "description": "Для холодной гибки прутков арматуры на строительных площадках и в производственных цехах.",
+            "image": "assets/image/product_construction_equipment/stanok.png"
+        },
+        {
+            "name" : "Станки рубки арматуры",
+            "description": "Для рубки арматуры в цехах по производству железобетонных изделий и на строительных площадках.",
+            "image": "assets/image/product_construction_equipment/cutting_machines.png"
+        },
+        {
+            "name" : "Бадьи для бетона",
+            "description": "Для перемещения, временного хранения и выгрузки бетона на строительных площадках.",
+            "image": "assets/image/product_construction_equipment/buckets_for_concrete.png"
+        },
+        {
+            "name" : "Тары для раствора",
+            "description": "Для перемещения раствора, бетона и других сыпучих строительных материалов.",
+            "image": "assets/image/product_construction_equipment/containers_for_solution.png"
+        },
+        {
+            "name" : "Станции парогенераторные",
+            "description": "Для обработки паром строительных конструкций или участков под их строительство.",
+            "image": "assets/image/product_construction_equipment/steam_generator_stations.png"
+        },
+        {
+            "name" : "Станки отрезные маятниковые",
+            "description": "Для резки арматуры, труб и другого металлопроката с помощью абразивных армированных кругов.",
+            "image": "assets/image/product_construction_equipment/pendulum_cutting_machines.png"
+        },
+        {
+            "name" : "Станки круглопильные СК-60",
+            "description": "Для раскроя пиломатериалов.",
+            "image": "assets/image/product_construction_equipment/circular_sawing_machines_sk_60.png"
+        },
+        {
+            "name" : "Площадка выносная К-1.3",
+            "description": "Для приема на этажи строящихся зданий различных строительных материалов и оборудования.",
+            "image": "assets/image/product_construction_equipment/the_outrigger_platform_k_1.3.png"
+        },
+        {
+            "name" : "Виброплиты электрические",
+            "description": "Для уплотнения грунта и сыпучих материалов.",
+            "image": "assets/image/product_construction_equipment/electric_vibrating_plates.png"
+        },
+        {
+            "name" : "Виброрейки электрические стальные",
+            "description": "Для уплотнения бетонных растворов и смесей при обустройстве горизонтальных повехностей.",
+            "image": "assets/image/product_construction_equipment/electric_steel_vibrators.png"
+        },
+        {
+            "name" : "Вибростолы",
+            "description": "Для механического уплотнения сыпучих и песчаных материалов, изготовления тротуарной или облицовочной плитки и строительных блоков.",
+            "image": "assets/image/product_construction_equipment/vibrating_tables.png"
+        },
+        {
+            "name" : "Вибросито СО-139",
+            "description": "Для механического просеивания песчаных и сыпучих материалов на строительных объектах.",
+            "image": "assets/image/product_construction_equipment/vibrating_screen_ss_139.png"
+        }
+    ],
+    "non_standard_equipment":[
+        {
+            "name" : "Контейнер для подъёма кирпича",
+            "description": "Для подъёма кирпича и других материалов",
+            "image": "assets/image/non_standard_equipment/container_for_lifting_bricks.png"
+        },
+        {
+            "name" : "Тара самораскрывающаяся",
+            "description": "Предназначена для сбора мусора и отходов металла на производственной и строительной площадках.",
+            "image": "assets/image/non_standard_equipment/self_opening_container.png"
+        }
+    ]
+}
